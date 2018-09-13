@@ -1,0 +1,7 @@
+{
+  "name": "HeyFinal",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
